@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Linkperfil no LinkedIn])]([Link perfil no LinkedIn])
-
 
 <!--
 **gitnunes/gitnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
