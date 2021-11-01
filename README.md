@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Anderson Nunes 👋
+
+🔭 I love to dig into complex problems involving computation, logic, analytical capacity, conceptual thinking and creative thinking. When I was a kid video games has been my passion as I would spend hours in front of a screen. Now, spending hours in front of a screen is still my favorite hobby but with the goal of programming. My first contact with programming has been in undergraduate school of Mechanical Engineering and later on in a research project using FORTRAN language to simulate radiative heat transfer in nanoparticle assisted hyperthermia, a cancer treatment method. As I developed my programming skills I found out I would like to do it 24/7 and web development would be the perfect fit. I am enrolled in a web development course at Trybe, a technology school that has a genuine commitment to the professional success of its students.
 
 
 <!--
