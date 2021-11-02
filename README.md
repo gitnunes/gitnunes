@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Anderson Nunes <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-andersonnunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonnunessousa/)](https://www.linkedin.com/in/andersonnunessousa/)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gitnunes.gitnunes)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gitnunes.gitnunes) -->
 
 <!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p> -->
 
