@@ -6,14 +6,18 @@
 <!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p> -->
 
 ### About me 👋
+ 
+😆 Born in Natal-RN, I grew up in the neighborhood of Neópolis. I currently study Full Stack Web Development at Trybe, a technology school that has a genuine commitment to the professional success of its students.
 
 🧮 I love to dig into complex problems involving computation, logic, analytical capacity, conceptual thinking and creative thinking. 
 
-🎮 When I was a kid video games has been my passion as I would spend hours in front of a screen. Now, spending hours in front of a screen is still my favorite hobby but with the goal of programming. 
-
 🤖 My first contact with programming has been in undergraduate school of Mechanical Engineering and later on in a research project using FORTRAN language to simulate radiative heat transfer in nanoparticle assisted hyperthermia, a cancer treatment method. 
 
-🚀 As I developed my programming skills I found out I would like to do it 24/7 and web development would be the perfect fit. I am enrolled in a web development course at Trybe, a technology school that has a genuine commitment to the professional success of its students.
+📖 I consider myself a lifelong learner with a strong passion for science and technology. I've done some scientific research in places like Federal University of Rio Grande do Norte (Brazil) and University of Maryland, Baltimore County (United States). Additionally, I've worked as an Engineering Intern at Barreira do Inferno Launch Center, a rocket launch base of the Brazilian Space Agency.
+
+🎯 My goal in life is to continuously develop my hard and soft skills as well as to work with challenging and creative web projects.
+
+🧘‍♂️ My hobbies include meditation, journaling, reading and Linux.
 
 
 <!--
