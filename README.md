@@ -7,7 +7,7 @@
 
 ### About me 👋
  
-😆 Born in Natal-RN, I grew up in the neighborhood of Neópolis. I currently study Full Stack Web Development at Trybe, a technology school that has a genuine commitment to the professional success of its students.
+😆 I currently study Full Stack Web Development at Trybe, a technology school that has a genuine commitment to the professional success of its students.
 
 🧮 I love to dig into complex problems involving computation, logic, analytical capacity, conceptual thinking and creative thinking. 
 
