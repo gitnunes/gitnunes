@@ -12,3 +12,4 @@ I currently study **Full Stack Web Development** at **Trybe**. I consider myself
 
 #### Get in touch
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anderson-nunes-dev/) 
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/gitnunes) 
