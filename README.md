@@ -14,6 +14,6 @@ I currently study **Full Stack Web Development** at **Trybe**. I consider myself
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Get in touch
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anderson-nunes-dev/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gitnunes/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnunes)](https://github.com/anuraghazra/github-readme-stats)
